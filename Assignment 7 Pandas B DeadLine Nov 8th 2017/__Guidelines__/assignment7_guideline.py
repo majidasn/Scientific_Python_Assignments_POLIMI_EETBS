@@ -2,7 +2,11 @@
 import os
 import pandas as pd
 import numpy as np
+<<<<<<< HEAD
 os.chdir("D:/polimi note books/energy and enviromnetal technologies for building systems/assignments/Assignment 7 Pandas B DeadLine Nov 8th 2017/__Guidelines__")
+=======
+os.chdir("C:\Users\Lorenzo\Desktop\git_fork_clone\Scientific_Python_Assignments_POLIMI_EETBS\Assignment 7 Pandas B DeadLine Nov 8th 2017\__Guidelines__")
+>>>>>>> e6c3439b3e8e67251c7895875b304c4f164ff375
 
 
 
